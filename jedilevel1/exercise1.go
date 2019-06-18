@@ -8,7 +8,7 @@ IDENTIFIERS 'x' and 'y' an 'z'
 	b. multiple print statement
 */
 
-packege main
+package main
 
 import (
 	"fmt"	
